@@ -14,7 +14,7 @@ public class ConcentricPattern {
                 int min = Math.min(Math.min(top, bottom), Math.min(left, right));
                 System.out.print((n - min) + " ");
             }
-            System.out.println();
+           System.out.println();
         }
     }
 }
